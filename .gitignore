@@ -1,0 +1,16 @@
+# Build artifacts
+*.o
+*.a
+*.elf
+*.bin
+*.map
+build/
+bin/
+
+# Test binaries
+tests/*_runner
+tests/run_*
+
+# Editor / OS
+.DS_Store
+*.swp
